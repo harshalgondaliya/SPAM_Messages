@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ShubhamPy/Spam-Classifier"><img src="https://github.com/harshalgondaliya/SPAM_Messages/blob/main/Screenshots/Aim.png" alt="Spam"></a>
+  <a href="https://github.com/harshalgondaliya/SPAM_Messages"><img src="https://github.com/harshalgondaliya/SPAM_Messages/blob/main/Screenshots/Aim.png" alt="Spam"></a>
   <br>
   SpamClassifier
   <br>
